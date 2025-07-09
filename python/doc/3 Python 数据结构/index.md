@@ -508,7 +508,7 @@ print("总和\t: ", sum(nums))
 
 # 字典 dict
 
-### 概念与基础操作
+## 概念与基础操作
 
 字典是 Python 中一种非常重要的数据结构，它是一个无序的键值对集合，每个键对应一个值，类似于生活中的“查字典”。
 
@@ -539,7 +539,7 @@ print(gender)
 
 ![](assets/X5pqIfVHLGuMi_AP4RXf7x1aNpVV6HkP2oblND2gocA=.png)
 
-### 遍历字典
+## 遍历字典
 
 ```python
 person = {"name": "Zhangsan", "age": 25, "city": "Beijing"}
@@ -563,7 +563,7 @@ for k, v in person.items():
 
 ![](assets/bz3LYKsobEuofYmnb2MioXb5pC5hC4VJJIUee_3rTaM=.png)
 
-### 字典推导式
+## 字典推导式
 
 类似于列表推导式，但生成的是字典。
 
@@ -593,7 +593,7 @@ print(squars)
 
 ![](assets/kyi8Fv3C9V8G_gSZQY4dmqWfOjrxfXohw_O_Ye0IWHQ=.png)
 
-### 实战练习
+## 实战练习
 
 1. 用户信息存储
 
